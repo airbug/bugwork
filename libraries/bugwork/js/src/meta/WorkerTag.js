@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2014 airbug Inc. All rights reserved.
+ * Copyright (c) 2015 airbug Inc. All rights reserved.
  *
  * All software, both binary and source contained in this work is the exclusive property
  * of airbug Inc. Modification, decompilation, disassembly, or any other means of discovering
